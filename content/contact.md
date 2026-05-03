@@ -15,7 +15,7 @@ draft: false
 * 📍 **常驻地**：河南及周边区域
 * 📧 **邮箱**：mcgeai@163.com
 * 📱 **电话/微信**：[mcgeai01]
-
-<img width="428" height="429" alt="image" src="https://github.com/user-attachments/assets/5ec5a377-37a7-49db-ae45-3da4388bf3e2" />
+<tr>
+<img width="163" height="149" alt="image" src="https://github.com/user-attachments/assets/5ec5a377-37a7-49db-ae45-3da4388bf3e2" />
 <img width="163" height="149" alt="image" src="https://github.com/user-attachments/assets/384bf649-b8a3-4c66-a68a-1829acbce24d" />
-
+</tr>
