@@ -1,0 +1,43 @@
+baseURL = 'https://mcgeai.github.io/'
+languageCode = 'zh-CN'
+title = 'mcgeAI-opc | 独立技术服务'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "资深云计算架构师 & 关键业务基础设施专家"
+  author = "mcgeAI"
+
+  # 开启个人主页模式
+  [params.profileMode]
+    enabled = true
+    title = "mcgeAI - 独立技术服务"
+    subtitle = "资深云计算架构师 & 关键业务基础设施专家 \n 20年一线实战经验 | K8S认证专家 | 大厂交付标准 | 专治疑难杂症"
+    imageUrl = "https://picsum.photos/200"
+    imageWidth = 150
+    imageHeight = 150
+
+    # 主页按钮
+    [[params.profileMode.buttons]]
+      name = "🛠️ 核心服务模块"
+      url = "/services/"
+    [[params.profileMode.buttons]]
+      name = "💡 关于我"
+      url = "/about/"
+
+  # 顶部导航栏菜单
+  [[menu.main]]
+    identifier = "services"
+    name = "业务范围"
+    url = "/services/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "contact"
+    name = "联系合作"
+    url = "/contact/"
+    weight = 30
