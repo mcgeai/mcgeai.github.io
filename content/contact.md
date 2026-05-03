@@ -16,5 +16,5 @@ draft: false
 * 📧 **邮箱**：mcgeai@163.com
 * 📱 **电话/微信**：[mcgeai01]
 <img width="224" height="195" alt="image" src="https://github.com/user-attachments/assets/0d966798-80d4-4872-9ff8-95a86e5d5c20" />
-<img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/e594fbdb-1c6e-4cca-af5b-e2c1581ed534" />
+<img width="224" height="195" alt="image" src="https://github.com/user-attachments/assets/e594fbdb-1c6e-4cca-af5b-e2c1581ed534" />
 
